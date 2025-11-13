@@ -1,0 +1,416 @@
+[
+  {
+    "title": "Electrical Safety Overview",
+    "content": "Electrical hazards are a leading cause of workplace injuries and fatalities. Key safety principles include: - Always assume wires and equipment are energized - Use lockout/tagout (LOTO) procedures - Maintain safe working distances from power lines - Use proper personal protective equipment (PPE) - Only qualified electricians should work on electrical systems - Ground fault circuit interrupters (GFCIs) required in wet locations - Regular inspection and maintenance of electrical equipment.",
+    "category": "overview",
+    "source": "",
+    "keywords": [
+      "electrical",
+      "safety",
+      "overview"
+    ]
+  },
+  {
+    "title": "Lockout/Tagout Procedures",
+    "content": "LOTO procedures prevent accidental energization: - Identify all energy sources - Notify affected employees - Shut down equipment properly - Isolate energy sources (switches, valves) - Apply lockout/tagout devices - Release stored energy (capacitors, springs, hydraulics) - Verify de-energization with test equipment - Only the person who applied the lock can remove it - Use standardized locks and tags - Document the procedure.",
+    "category": "procedures",
+    "source": "",
+    "keywords": [
+      "lockout",
+      "tagout",
+      "procedures"
+    ]
+  },
+  {
+    "title": "Electrical PPE Requirements",
+    "content": "Personal protective equipment for electrical work: - Insulated gloves rated for voltage level - Leather protector gloves over rubber gloves - Dielectric (non-conductive) footwear - Arc-rated clothing and face shields - Hard hats with electrical protection rating - Safety glasses with side shields - Insulated tools - Voltage detectors and test equipment - PPE must be inspected before each use - Different ratings required for different voltage levels.",
+    "category": "equipment",
+    "source": "",
+    "keywords": [
+      "electrical",
+      "requirements"
+    ]
+  },
+  {
+    "title": "Power Line Safety",
+    "content": "Working near power lines safety requirements: - Maintain 10-foot minimum clearance from lines up to 50kV - Add 4 inches for every 10kV above 50kV - Overhead power lines can kill without contact (arcing) - Call utility company to de-energize or shield lines - Use spotters when operating equipment near lines - Assume all lines are energized at highest voltage - Special precautions for cranes, ladders, lifts - Ground metallic equipment near power lines - Emergency procedures if equipment contacts lines.",
+    "category": "power_lines",
+    "source": "",
+    "keywords": [
+      "power",
+      "line",
+      "safety"
+    ]
+  },
+  {
+    "title": "Electrical Hazard Identification",
+    "content": "Common electrical hazards to identify: - Exposed wiring or electrical parts - Damaged cords, plugs, or equipment - Overloaded circuits or outlets - Water near electrical equipment - Missing ground pins on plugs - Improper use of extension cords - Lack of GFCI protection in wet areas - Unlabeled electrical panels - Overhead power lines in work area - Inadequate clearances around electrical equipment - Makeshift or temporary wiring - Equipment without proper grounding.",
+    "category": "identification",
+    "source": "",
+    "keywords": [
+      "electrical",
+      "hazard",
+      "identification"
+    ]
+  },
+  {
+    "title": "Arc Flash Hazards",
+    "content": "Arc flash protection requirements: - Arc flash can reach 35,000°F - Conduct arc flash hazard analysis - Label equipment with hazard level - Use arc-rated PPE (minimum of Arc Rating 4) - Maintain flash protection boundary - De-energize when possible - Use remote operations when available - Proper training required - Never wear synthetic materials (melts to skin) - Use face shields and hearing protection - Have emergency response plan.",
+    "category": "arc_flash",
+    "source": "",
+    "keywords": [
+      "flash",
+      "hazards"
+    ]
+  },
+  {
+    "title": "Electrical Safety - Sections 181-183 O. Reg 213/91",
+    "content": "Compliance with sections 181 and 183 of O. Reg 213/91 includes requirements for isolating and de-energizing electrical systems. No work shall be performed on energized electrical equipment or conductors unless certain conditions are met. A supervisor or competent person shall inspect all machinery and equipment, including electrical installations, to ensure they do not endanger any worker.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "electrical",
+      "safety",
+      "sections"
+    ]
+  },
+  {
+    "title": "Overhead Electrical Lines and Clearance Requirements",
+    "content": "Accidental contact by a crane, similar hoisting device, backhoe, power shovel or other vehicle or equipment or its load with an energized electrical conductor rated at more than 750 volts is a reportable incident. Minimum clearance distances must be maintained from overhead power lines: 3 metres for lines up to 750V, 5 metres for 750V-150kV, 8 metres for 150kV-250kV, and greater distances for higher voltages. Warning signs must be posted.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "overhead",
+      "electrical",
+      "lines",
+      "clearance",
+      "requirements"
+    ]
+  },
+  {
+    "title": "Lock Out Tag Out (LOTO) Procedures for Construction",
+    "content": "Before performing maintenance, repair, or servicing on equipment with hazardous energy sources, workers must follow lock out tag out procedures. Energy sources include electrical, hydraulic, pneumatic, and mechanical. The LOTO process involves: 1) Notify affected workers, 2) Shut down equipment properly, 3) Isolate energy sources, 4) Apply personal locks and tags, 5) Release stored energy, 6) Verify zero energy state, 7) Perform work, 8) Remove locks only by person who applied them.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "lock",
+      "loto",
+      "procedures",
+      "construction"
+    ]
+  },
+  {
+    "title": "Temporary Power and GFCI Requirements - IHSA Guidelines",
+    "content": "Temporary electrical installations must use Ground Fault Circuit Interrupters (GFCI) for protection. All receptacles must be GFCI-protected. Electrical cables must be properly routed, supported, and protected from damage. Extension cords must be rated for outdoor use and in good condition. Generators must be properly grounded and bonded. Temporary power must be inspected regularly by a competent person. Weather protection is required for outdoor electrical equipment.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "temporary",
+      "power",
+      "gfci",
+      "requirements",
+      "ihsa",
+      "guidelines"
+    ]
+  },
+  {
+    "title": "Arc Flash Awareness and Prevention",
+    "content": "Arc flash hazards exist when working on or near energized electrical equipment. An arc flash can cause severe burns, hearing damage, and blast injuries. Only qualified electrical workers may work on energized equipment. Arc-rated PPE is required based on hazard analysis. De-energize equipment whenever possible. Maintain safe working distances. Post arc flash warning labels on electrical panels showing hazard level and required PPE.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "flash",
+      "awareness",
+      "prevention"
+    ]
+  },
+  {
+    "title": "Underground Utilities Location Requirements - Section 228",
+    "content": "Employers must ensure all gas, electrical and other services are located and marked in and near the area to be excavated. If a service poses a hazard, it must be shut off and disconnected before excavation begins. Ontario One Call must be contacted before digging. Wait for utility locates to be completed. Hand expose underground utilities within 1 metre of marked locations. Mark located utilities clearly on site.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "underground",
+      "utilities",
+      "location",
+      "requirements",
+      "section"
+    ]
+  },
+  {
+    "title": "4. After looking in the mouth (even if nothing is visible) open the \nairway and attempt to give a br",
+    "content": "In many cases, an electrical shock delivered by an AED can correct V-fib and V-tach rhythms. The shock disrupts the heart’s electrical activity long enough for it to spontaneously develop an effective rhythm on its own. Using an AED as soon as possible (along with starting CPR immediately) gives the person the best chance of surviving cardiac arrest. Different types of AEDs are available, but all are similar to operate and guide you using visual displays, voice prompts, or both. If your place of employment has an AED on site, know where it is located, how to operate it, and what the procedures around it are (e.g., for reporting its use or replacing its batteries). Also take note of the location of AEDs in public places that you frequent, such as shopping centres, airports, recreation centres, and sports arenas. In more than 80% of all sudden cardiac deaths, the person’s heart rhythm is \"shockable\" (ventricular tachycardia or ventricular fibrillation). In other words, defibrillation could have helped. If the person’s heart has no electrical activity (asystole or flatline), defibrillation won’t help. For each minute that the person has to wait for defibrillation, the chance of survival drops between 7 and 10%.1. Open and turn on the AED. 2. Prepare to apply the AED pads: • Remove or cut away clothing and undergarments to expose the person’s chest, and move or remove any objects (including jewellery) that could come into contact with the • If the person’s chest is wet, dry it using a towel or gauze pad. Dry skin helps the AED pads to stick properly. • Small amounts of chest hair will not interfere with pad adhesion. If the person has thick chest hair, shave the areas where the pads will be placed using the razor included with the AED prep kit.Using an AED CPR & AED70.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "after",
+      "looking",
+      "mouth",
+      "even",
+      "nothing",
+      "visible",
+      "open",
+      "airway",
+      "attempt",
+      "give"
+    ]
+  },
+  {
+    "title": "Wound Care8",
+    "content": "What to Look For Electrical Burns The following tips will help prevent electrical burns: • Keep electrical appliances away from water. • If an electrical cord is frayed, fix it or dispose of it. • If there are young children in the building, cover electrical outlets. • Before approaching a person with a suspected electrical burn, make sure that trained personnel turn off the electrical current. Burns from Lightning Strikes The following precautions will help prevent burns from lightning strikes: • As soon as a storm is seen or heard, stop swimming or boating and get away from the water, because water conducts electricity. • Stay indoors during thunderstorms. A picnic shelter or car (with the windows rolled up) will also provide some protection. • If caught outside, stay away from telephone poles and tall trees. Stay off hilltops and try to crouch down in a ravine or valley if shelters are not available nearby. • Stay away from things that conduct electricity, such as farm equipment, small metal vehicles (e.g., motorcycles, bicycles, and golf carts), wire fences, clotheslines, metal pipes, and railings. Thermal Burns The following precautions will help prevent thermal burns: • When cooking on the stove, turn the pot handles in and use only the back burners when possible. • Keep the hot water tank temperature at or below 49°C (120°F). • Keep children away from heat sources and appliances such as ovens, barbecues, space heaters, woodstoves, candles, and fireplaces. • Keep hot drinks out of children’s reach.Any of the following signs around an injury may indicate an infection: • Red streaks moving away from the wound • Heat or warmth • Swelling • Tenderness • Excessive itchiness Burns are soft-tissue injuries caused by chemicals, electricity, heat, or radiation. Prevention There are different methods of prevention for different types of burns. Chemical Burns The following precautions will help prevent chemical burns: • Store chemicals in their original containers. • Wear protective gear when handling chemicals. • Wash your hands after touching chemicals. • Get trained in a hazardous materials training program, such as the Workplace Hazardous Materials Information System (WHMIS)/ Globally Harmonized System (GHS) of Classification and Labelling of Chemicals. • Read the label before using a product. • Be aware of caustic plants in your area. Wound Care90.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "wound"
+    ]
+  },
+  {
+    "title": "Wound Care8",
+    "content": "What to Do 1. Treat the person as if he or she has a head and/or spinal injury. 2. Look for two burns (the entry and exit points) and care for them as you would care for thermal burns. Radiation Burns The most common type of radiation burn is a sunburn, but they can also be caused by exposure to radioactive substances. What to Do 1. If the burn results from exposure to a radioactive substance, consult the appropriate workplace safety system (e.g., WHMIS) for specific first aid steps. 2. Care for radiation burns as you would care for thermal burns.Special Considerations When Caring for Burns Remember the following special considerations when providing care for burns: • Don’t use ointments on partial or full thickness burns. • Blisters are a natural cooling system. Leave them in place. • Touch a burn only with sterile or clean dressings. • Do not use absorbent cotton or pull clothes over any burned area. Pay close attention to the person’s airway. Look for signs of burn injuries around the face. If you suspect that the airway or the lungs may be burned, monitor the person’s breathing closely. A bruise is a discoloured area of the skin that is created when blood and other fluids seep into nearby tissues. What to Look For The following are signs and symptoms of bruising: • Discoloured skin (red, purple, black, or blue areas) • Swelling • PainElectrical Burns Electrical burns are caused by powerful electrical currents. They are typically caused by a person either touching a live electrical circuit or being struck by lightning. Because electricity and lightning can affect the heart, it is important to monitor the person’s ABCs closely. Wound Care94.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "wound"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 1ELECTRICAL HAZARDS 26 ELECTRICAL HAZARDS • Introduction • Electrical injuries• Safeguards• Working on energized systems• Portable tools and extension cords• Temporary wiring and power• Other electrical issues• Reporting electrical accidents/incidents INTRODUCTION An electrical hazard can be defined as - a dangerous condition where a worker could make electrical contact with energized equipment or a conductor, andfrom which the person may sustain aninjury from shock; and/or, - there is potential for the worker to receive an arc flash burn, thermal burn, or blastinjury. Note: An electric hazard is considered to be removed when protective measures are putin place at the source (remove hazard or de-energize), or along the path (place electricalinsulation/barrier between the worker andthe electrical hazard). Where PPE is reliedupon for worker protection, an electricalhazard is considered to remain and it is stillnecessary to address safety requirements forother workers in the area. Injuries resulting from a worker makingelectrical contact represent a relatively smallportion (7.7%) of the lost-time injurieselectricians experience, according to 1997–1999statistics. It is reasonable to assume that thesituation is similar today. Other mechanicaltrades that do some electrical work canprobably expect even fewer electrical injuries. Nevertheless, working on or near electricalhazards is dangerous and can be fatal. Anywork on or near energized equipment must bedone only when measures are in place toprovide protection from electric shock and burn.With adequate safety measures in place, everyelectrical injury and fatality can be prevented. The law requires safe work practices. Under the Occupational Health and Safety Act andRegulations for Construction Projects , employers, supervisors, and workers each have legalresponsibilities to ensure that work is beingcarried out in a safe manner. There are also restrictions in the Construction Regulation (Ontario Regulation 213/91 Section182) on who can work on electrical equipment: (1) No worker shall connect, maintain, or modify electrical equipment or installationsunless, (a) the worker is an electrician certified under the Trades Qualification andApprenticeship Act; or (b) the worker is otherwise permitted to connect, maintain or modify electricalequipment or installations under theTrades Qualification and ApprenticeshipAct, the Apprenticeship and CertificationAct, 1998 or the Technical Standardsand Safety Act, 2000. (2) A worker who does not meet the requirements of clause (1) (a) or (b) mayinsert an attachment plug cap on the cordof electrical equipment or an electrical toolinto, or remove it from, a conveniencereceptacle. Guidelines for working on or near electricalequipment and conductors are found in severaldocuments: • Construction Regulation (O. Reg. 213/91) •Ontario Electrical Safety Code.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 2ELECTRICAL HAZARDS • Operating manuals for different tools and equipment. •NFPA 70E Standard for Electrical Safety in the Workplace •CSA Z462 Workplace Electrical Safety . An important aspect of electrical work involves isolating electrical energy. A reference fordetailed information on lockout and control ofhazardous energy is the Canadian standard CSAZ460-05, Control of Hazardous Energy—Lockout and Other Methods. ELECTRICAL INJURIES There are basically two ways to be injured byelectricity. One is by electric shock and theother is by arc flash. Electric shock is the passing of electric current through the body. Electrical contact can causeinvoluntary physical movements. The electricalcurrent may • prevent you from releasing your grip from a live conductor • throw you into contact with a higher voltage conductor • cause you to lose your balance and fall • cause severe internal and external burns• kill you. A household 125-volt circuit can deliver 15 amps. Current as low as 30/1000 of 1 amp (30 mA) can cause breathing to stop. A 15-Amp circuit contains many times the currentneeded to cause death.An arc flash is a release of energy caused by anelectric arc. The flashcauses an explosiveexpansion of air andmetal. The blast produces • a dangerous pressure • a dangerous sound • shrapnel • extreme heat• extreme light. These dangers can result in blast injuries, lunginjuries, rupturedeardrums, shrapnelwounds, severe burns, andblindness. Arc flash injuriescan also result in death. A major cause of accidents involving electricity comes from the failure to identify the hazards associated with live electrical equipment and wiring. Arc flashElectric arc.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 3ELECTRICAL HAZARDS SAFEGUARDS Protective tools and equipment Workers exposed to an electrical hazard must use mats, gloves, shields, flame resistantclothing, and any other protective equipmentrequired to protect themselves from electricshock and burn. As part of everyday work,electrical workers should always • remove watches, rings, neck chains, or other current-conducting apparel • wear electric-shock-resistant footwear • wear a CSA-approved Class E hard hat or equivalent • wear safety glasses with side shields, and• wear under and outer clothing that has flame-resistance properties. Tools, devices, and equipment — including personal protective equipment — used for livework must be designed, tested, maintained, andused so as to provide adequate protection forworkers. Where there is the potential for an arc flash, PPE should be chosen with consideration for the kinds of hazards that can result from an arc flash.See Flash Hazard (Arc Flash) Protection below. The following information provides guidelines on appropriate and required personal protectiveequipment. Check the reference documentsidentified at the beginning of this chapter todetermine your job-specific needs. See also thechapters on personal protective equipment inthis manual. As well, see the chapters onpersonal protective equipment in the Equipmentsection of this manual. Whether or not the day’s planned work involvesworking near an electrical hazard, workers thatdo electrical work should choose everydayclothing that offers some flame resistanceproperties. When work must be done in thepresence of an electrical hazard, ensure that allclothing is chosen to provide adequateprotection from the potential hazards. See FlashHazard (Arc Flash) Protection below. Head protection The following hard hats comply with the Construction Regulation: • CSA Z94.1-05 Class E, Type 1 or 2 (Canadian) • ANSI Z89.1-2009 Type II, Class E (US) • ANSI Z89.1-2009 Type I, Class E. (US) Note that under the latest ANSI standard, there are two types of Class E hard hats: Type I andType II. Type I hats are similar to the old CSAClass B hard hats which provide limited lateralimpact protection. The Type II hats haveenhanced lateral protection like the CSA Class E.ANSI Type II Class E hard hats are clearlylabelled “Type II.” If your hard hat just says“ANSI Class E,” assume it’s a Type I. Foot protection Construction workers require Grade 1 toeprotection with sole protection in accordancewith the Canadian Standards Associationstandard (CSA) Z195-02. Protective footwearcompliant with the intent of the ConstructionRegulation is identified by a green triangularpatch on the tongue or the ankle of thefootwear. Mechanical trades people exposed to electrical hazards should also wear electric-shock-resistantfootwear identified by a white rectangular labelbearing the CSA logo and the Greek letteromega in orange. CSA logo omega.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 4ELECTRICAL HAZARDS Eye protection The Canadian Standards Association (CSA) standard CAN/CSA Z94.3-99 Industrial Eye andFace Protectors can assist you in classifying hazards and recommending protectors.Appropriate protection chosen according to thisstandard meets with the intent of theConstruction Regulation regarding eyeprotection worn on the job. In any case, eye protection should be of industrial quality eye protection in the form ofsafety glasses incorporating side-shields or awrap-around style. Arc flash protection requiresa face shield that is rated for arc flash, withsafety glasses underneath. Regular plastic face shields do not toprovide arc flash protection. They can burnand melt in an arc flash incident. Use a faceshield that is designed and rated for arcflash protection. Hearing protection Hearing protection is important at work sincecontinuous exposure to excessive noise can leadto hearing loss and tinnitus. Hearing protectionis required for some arc flash hazards. Hearingprotection is available in three general types: 1. Disposable ear plugs made of pliable material. One size fits all, but they shouldonly be used once. 2. Reusable custom-fit ear plugs are available to provide protection for specificfrequencies of noise. These provide a goodseal and can be washed and reused. 3. Earmuffs. They need to be fitted to provide maximum protection. Shock protection The passage of electricity through the body iscalled shock. Effects can range from a tinglingsensation to death. A shock that may not beenough to cause injury can nonetheless startle aworker, causing an involuntary reaction that canresult in serious injuries or death.A household 125-volt circuit can deliver 15amps. Current as low as 30/1000 of 1 amp (30mA) can cause breathing to stop. A 15-ampcircuit has many times the current needed tocause death. Rubber gloves and leather protectors are the most common personal protective equipmentused for shock protection. These must beadequate to protect the worker from electricalshock or burn. The rubber gloves must havebeen tested and certified. Class 0 and Class 00 gloves must be air-tested and visually inspected for damage and adequacyimmediately before each use. Class 0 and Class 00 are exempt from regular re-certification unlesswork is carried out under the Electrical UtilitySafety Rules. Rubber gloves rated for use with voltages above 5,000 volts AC must be regularlytested and certified to ensure that they canwithstand the voltages for which they are rated, • at least once every three months if they are in service, or • once every six months, if they are not in Workers must be trained in the proper use, care,and storage of rubber gloves and leatherprotectors. Rubber mats and shields can also be used with standard personal protective equipment toprotect the worker from electric shock or burn.The rubber mat must have been tested andcertified. The best shock protection is afforded by turning off or isolating the electrical power from theworker. The Construction Regulation requires allwork to be done with the system de-energizedunless certain specified conditions are met. See“Working on Energized Systems” in this chapter. Flash hazard (arc flash) protection A flash hazard is defined as a dangerous condition associated with the release of energycaused by an electric arc (NFPA 70E 2004). The.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 5ELECTRICAL HAZARDS release of energy is often referred to as an arc An arc flash produces thermal energy which is measured in calories/cm². Adhering to arc flashprotection calculations can still expose a workerto second degree burns, or 1.2 calories/cm². One calorie is the amount of heat needed toraise the temperature of one gram of waterby 1°C. Second degree burn results from exposure to 1.2 cal/cm² for more than 0.1 second. 1.2 calories/cm² is equivalent to holding your finger in the blue part of a butanelighter flame for one second. These conditions can lead to arc flash: • accidental contact between two conductors • wiring errors• insulation deterioration or failure• corrosion of equipment• contamination of the equipment (e.g., dust, • animals, tools, or fallen parts that short- circuit the equipment • poor maintenance• workers using improper or non-rated tools. If a worker is close to energized electrical equipment, the worker may be exposed to aflash hazard, even if the source of the arc flashis not being worked on. Employers andsupervisors need to ensure these workers areprotected from flash hazards, and shouldeducate workers on flash hazard recognition. It may be possible to eliminate the electricalhazard with equipmentdesigned to offer flashprotection. The plug inthe picture at right andbelow is designed forflash protection andcan be used as adisconnect switch. Mechanical workers that are potentially exposed to arc flash should always wear clothing thatprovides for some level of arc-flash protection.Clothing made of synthetic fibres can be readilyignited by arc flash and melt to the workersskin. Cotton or wool fabrics are more flame-retardant and are therefore recommended asouter-wear and inner-wear for work clothes.Clothing that is flame resistant (FR) and rated toprovide protection up to a specified hazardcategory must be worn when there is a flashhazard. Protection from an arc flash is afforded by protective clothing and equipment such as • wearing flame-resistant clothing • flame-resistant eye protection (flame- resistant face shield is often required as • hand protection • hearing protection.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 7ELECTRICAL HAZARDS than 300 volts, can only be done if 1) the owner of the equipment provides the employer and the constructor with a record showing that it has been maintainedaccording to the manufacturer’sspecifications 2) a copy of the maintenance record is readily available at the project 3) the employer has determined from the maintenance record that work on theequipment can be performed safelywithout disconnecting it, and 4) before beginning live work, the worker has verified that requirements 1), 2), and3) have been met. Repair or permanently disconnectdefective equipment. Section 2-300 of the Ontario Electrical SafetyCode requires operating electrical equipment to be kept in safe and proper workingcondition. The constructor must ensure that writtenprocedures for work on or near live equipmentare produced and implemented to protectworkers from electrical shock and burn. Theconstructor must have copies of the proceduresavailable for employers on the project. The employer must provide and explain the written procedures to workers before they startwork on or near live equipment. Theconstructor and the employer both have ageneral duty to ensure that the health and safetyof workers are protected. Operating equipment near energized powerlines Incidental powerline contact happens too often, especially considering the potential severity ofthe consequences. The Ministry of Labourreported 108 powerline contacts in 1998. Thatnumber rose to 196 in 2005. See Table 1. Constructors must be aware of electrical hazards when equipment such as a crane, dump truck,or other vehicle is going to be operated near anenergized overhead electrical conductor, orwhen excavating equipment such as a backhoewill be operated near underground powerlines. When equipment operates within reach of, and could therefore encroach on, the minimum Table 1: Summary of Powerline Contacts Overhead Lines Buried Cables Year CraneDump fellingOther Digging Other Total 2005 19 21 9 87 45 15 196 2004 11 16 5 57 53 9 151 2003 16 19 9 63 35 6 148 2002 16 20 4 50 36 6 132 2001 16 22 5 43 27 7 120 2000 15 10 3 59 32 3 122 1999 11 26 2 48 27 1 115 1998 10 17 8 39 27 7 108 TOTALS 114 151 46 446 282 54 (Source: Ontario Ministry of Labour).",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 8ELECTRICAL HAZARDS permitted distances from live overhead powerlines (as listed in Table 2), the constructoris required to have written procedures in placeto prevent it fromoccurring and to havecopies of theprocedure available forevery employer on theproject. Overhead powerlines are most frequently hitby dump trucks and cranes; however, elevatingwork platforms and low-tech equipment such asladders and rolling scaffolds are also involved.Keep in mind that many powerline contactsinvolve low-voltage service and buried cable. Safety measures Written measures and procedures required bythe Construction Regulation include thefollowing: • Place enough warning devices in the area of the hazard so at least one is alwaysvisible to the operator. The warningdevices must be visible to the operatorunder any conditions in which theequipment may be operating (night, rain,fog, etc.), and must be specific about thehazard. Provide a sign meeting the Normal phase-to-phase voltage rating Minimum distance 750 or more volts, but no more than 150,000 volts 3 metres More than 150,000 volts, but no more than 250,000 volts 4.5 metres More than 250,000 volts 6 metres The wind can blow powerlines, hoist lines, or your load. This can cause them to cross the minimumdistance. POWERLINES OVERHEAD 72000 V.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 9ELECTRICAL HAZARDS requirements of the Construction Regulation’s section 44, stating, forexample, “Danger! Electrical power linesoverhead.” We recommend that youinclude the voltage. • Ensure the equipment operator has been provided with written notification of theelectrical hazard before beginning the work. • Ensure there is a sign warning of the hazard that is visible to the operator at theoperator’s station. This may come as asticker with the machine. Check to ensurethe sticker is still legible. • Before the operator starts work, ensure that the employer of the equipmentoperator provides and explains theprocedures to the equipment operator. • A competent worker must be designated as a signaller to warn the operator when anypart of the equipment, load, or hoist linemay approach the minimum distance. Thesignaller must then be in full view of theoperator and have a clear view of theequipment and the conductor. Section 106of the Construction Regulation also applieswith respect to the designated signaller. An exemption to these measures is only allowedif under the authority of the owner of theelectrical conductor (typically the local utility),protective devices and equipment are installed,and written procedures are implemented (forexample, using the Electrical & Utilities SafetyAssociation (E&USA)’s Electrical Utilities SafetyRules) that are adequate to protect the equipmentoperator from electrical shock and burn. Prevention Ensure that contractors and workers understandthat work should be planned to avoidpowerlines. Prepare forwork that must be donein close proximity toenergized powerlines bydeveloping writtenprocedures ahead oftime. Have overheadpowerlines moved,insulated, or de-energizedwhere possible.Insulating or “rubberizing” powerlines offerssome protection against brush contact in somecircumstances. The local utility may provide thisservice. Identify the voltage of the service by checking markings on the utility pole and calling theutility. If material must be stored underpowerlines, hang warning flags and signs toinform workers about the hazard and the needto obtain written procedures if hoisting. Provide instruction as part of site orientation: • Advise operators of large equipment where overhead and buried powerlines are and where overhead powerlines may be lowerthan expected. • Remind workers not to let a ladder, scaffold, or elevated work platform lean ordrift toward overhead powerlines. Alwaysmaintain minimum allowable clearances. • Inform all workers how powerline hazards are identified on site and that written Inside the limit of approach to the powerline.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 10ELECTRICAL HAZARDS procedures are required prior to operating near them. • Review an appropriate emergency response for equipment operators andworkers assisting operators, in case contactshould occur. In the event of contact betweenequipment and overhead powerlines: 1.Stay on equipment . Don’t touch equipment and the ground at the sametime. Touching anything in contact withthe ground can be fatal. Stay on theequipment unless forced off because of alife-threatening hazard such as fire. Keep others away . Warn everyone not to touch the equipment or its load. Thatincludes buckets, outriggers, load lines,and any other part of the machine. Bewareof time-delayed relays. After line damagetrips a breaker, relays may still try torestore power. They may resetautomatically two or three times. Break contact . If possible, break contact by moving the equipment clear of thewires. This may not be feasible wherecontact has welded conductors toequipment, the hoist line, or the load. Call the local utility . Get someone to call the local electrical utility for help. Stayon the equipment until the utility shutsdown the line and confirms that power is off. Report incidents of powerline contactso that the utility can check for damagethat could cause the line to fail later. Jump clear . If forced to leave the equipment, jump carefully off the equipment onto the ground landing onlyon your feet, with your feet together. Touching the equipment and theground at the same time can be fatal. Touching the ground at different pointscan also be fatal. Shuffle slowly away fromthe equipment using very small steps tominimize the contact area with the ground. Report the contact. See “Reporting Electrical Accidents/Incidents” in thischapter. Hidden power supplies Digging into buried cable resulted in 282powerline contacts between 1998 and 2005 (seeTable 1). A great many of these resulted fromexcavating prior to getting a locate on theservice. If the electrical power cannot be shutoff during excavation, the owner (of the service)must be present to supervise the uncovering ofthe powerline. The following are some prevention measures for hidden powerlines. For underground powerlines: • Before excavating, request that the owner of the service locate and mark underground powerlines. • Contact the utility through Ontario One Call to locate all underground services. • Locate and mark underground lines on drawings that will be used for excavating. • Post warning signs along the route of underground powerlines. • When operators of excavation equipment arrive on site, advise them whereunderground services are located and howthey are identified.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 11ELECTRICAL HAZARDS For powerlines embedded in concrete: • Ensure various trades provide sleeving when concrete is poured to reduce the need to drill. • Try to have powerlines laid along dedicated sections of flooring and walls. • Mark powerline locations on drawings that will be referenced for drilling. • Use a location service to ex-ray the concrete and locate embedded powerlines. MULTIMETERS In the process of troubleshooting, electricalworkers face the risk of injury from impropermultimeter selection or use. Multimeters that aredesigned to meet the International Electro-technical Commission (IEC) 1010 andovervoltage category standards, when properlyused, offer the electrician an acceptable level ofprotection that is recognized by the electricalindustry. The use of fused leadsprovides additional protectionfor the worker. Why use overvoltage category rated multimeters? Momentary high-voltage transients or spikes can travelthrough a multimeter at any timeand without warning. Motors,capacitors, lightning, and powerconversion equipment such asvariable speed drives are allpossible sources of spikes.The IEC 1010 standard defines categories I throughIV that are abbreviated as CAT I, CAT II, CAT III,etc. The higher-numbered categories represent anelectrical environment that is susceptible to higher-energy spikes. For example, multimeters that aredesigned to the CAT IV standard provide theworker more protection from high transient voltagespikes than do CAT III, CAT II, or CAT I designs.See the diagram on the next page and Table 3below for an explanation of each category. Be sure that the multimeter model has been tested. Simply being designed to the CAT IIIstandard, for example, does not mean themultimeter was also tested to that standard. Look for proof of independent testing byan organization accredited by theStandards Council of Canada, suchas the CSA (Canadian StandardsAssociation) International logo,along with the appropriatecategory rating on the equipment. Reprinted in part with permission of Fluke Electronics Canada Inc.A failed multimeterTable 3.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 12ELECTRICAL HAZARDS leads should also be rated at the same or greater voltage than the multimeter. Understanding overvoltage installation categories The division of a power distribution system into catagories is based on the fact that a dangeroushigh-energy transient such as a lightning strikewill be attenuated or dampened as it travelsthrough the impedance (AC resistance) of thesystem. A higher CAT number refers to anelectrical environment with higher poweravailable and higher-energy transients.Therefore, a multimeter designed to the CAT IIIstandard is resistant to much higher-energytransients than one designed to the CAT IIstandard. Categories I through IV apply to low voltage (less than 1000 V) test equipment. Safe use of multimeters • Use only multimeters that display both the CSA logo (or equivalent) andthe CAT (I, II, III, or IV) designation. Categories I through IV apply to low voltage (less than1000 V) test equipment. • Check to ensure that the meter’s voltage rating is appropriate for the work beingdone. Be aware of multimeters with maximum voltage ratings typical of othercountries (550 V for example). • Use personal protective equipment such as arc flash fire-resistant clothing; eye andface protection; long sleeve shirts;dielectric safety boots; rubber gloves withleather protectors; and mats, blankets, orshields as required. Do not wear synthetic inner or outer clothing thatcan melt if an arc flash occurs. • Check the manufacturer’s manual for special cautions. Moisture and cold mayaffect the performance of your meter. • Wipe the multimeter and test leads clean to remove any surface contamination priorto use. • Use fused test leads. Ensure fused leads and internal probe fuses are rated as highas or higher than the equipment you aregoing to work on. A minimum of 30 kA isrecommended (200 kA is desirable). • Ensure that test leads are in the correct input jacks. • When the values to be measured are uncertain, start testing with high ranges ofthe multimeter, then move to the lowerranges. • Connect to the ground first, and disconnect from ground last. • Test the multimeter on a known power source to verify that the meter isfunctioning properly before and aftertesting the suspect circuit, using the samepower function for all three tests. Using a meter to confirm zero energyfor a lockout Set the meter to the power function to be usedfor validating the zero energy. Test to ensurethe meter is functioning correctly by testing ona known power source, then test the lockedout circuit to verify the power has beeneffectively isolated, and finally re-test on thesame known power supply to verify themeter’s fuse has not blown and the meter isstill functioning correctly on that power setting.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 14ELECTRICAL HAZARDS 3.Portable generators for use as a stand- alone supply for portable electrical devices must be labelled “ Neutral Bonded To “Portable Generators for portableelectrical devices shall be a generatorwith the neutral bonded to the case tofacilitate the operation of the overcurrentprotection device(s).” Labelling on newer portable generators must indicate the status ofthe neutral conductor and shall be marked oneach machine as follows: NEUTRAL BONDEDTO FRAME or NEUTRAL FLOATING. Electrical Safety Authority Flash notice 03-03-FL Portable generators with no connection between the neutral and the case cannot be used for a stand-alone electrical supply for theoperation of portable electrical equipment.Generators with no connection between theneutral and the case are intended to beconnected to a distribution system through atransfer switch. An example of this is a standbybackup system in a residential home whichkicks in upon failure of the utility supply. Thesegenerators will be labelled “Neutral Floating” . OTHER ELECTRICAL ISSUES Electromagnetic induction Electromagnetic induction can create an electriccurrent in a dead circuit. The condition occurswhen a magnetic field from another wire,circuit, or device cuts across a wire in its pathand produces a charge in that wire. Temporarygrounding will prevent electromagneticinduction. The temporary grounding cable mustbe the same size conductor as the one foundwithin the circuit. A ground conductor provides a direct physicalconnection to the mass of the earth. A grounding conductor limits the voltage or current to the ground during normal operation,and also prevents excessive voltages due tolightning strikes. A temporary ground provides a direct physical connection to the mass of the earth. Temporarygrounding typically involves the use of a wire orcable that has one end connected to a de-energized circuit, and the other end to a knowngrounded connection. The known groundedconnection can be the equipment frame (notethat if the equipment is electrically isolated, theframe may not provide an effective grounded Labelled “Neutral Floating”.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 15ELECTRICAL HAZARDS connection), a metal water pipe, a ground electrode, or other acceptable grounding medium. Ground all phases. Attach a temporary ground cable to the system and keep it in place untilwork is completed. Connecting and disconnecting conductors Disconnect devices used to isolate electricalequipment must be certified by CSAInternational or another certification bodyaccredited by the Standards Council of Canada.It is important that the device has theappropriate rating for the available current andload it is serving. Never assume a circuit hasbeen de-energized when the disconnect is in theopen position. Check for power in allconductors, then follow prescribed lockout andtagging procedures before beginning work. Capacitors Isolate the capacitor by opening the circuitbreaker or the isolation device connecting it tothe circuit. Drain off the accumulated charge forfive to ten minutes with the system device. Shortcircuit and ground the capacitor using a hotstick and required personal protectiveequipment. Electrical fires Never put water on fires in live electricalequipment or wiring. Water is a conductor andincreases the risk of arc flash and electrocution.An electrical fire in a confined space can rapidlydeplete oxygen and may release toxic fumes. Ifpossible, switch off power. Avoid inhaling fumesand vacate the area at once. If necessary,breathe through a damp cloth and stay close tothe floor. Use a Class C fire extinguisher.Intended for electrical fires, Class Cextinguishers employ a non-conductiveextinguishing agent. An ABC fire extinguishermay also be used on an electrical fire. Everyworker who may be required to use a fireextinguisher must be trained in its use. Reportfires immediately. Wiring or equipment involvedin a fire must be inspected by the electricalutility inspector before being reactivated. REPORTING ELECTRICAL ACCIDENTS/INCIDENTS All accidents, regardless of severity, must be reported promptly to management and theimmediate supervisor, and a record should bekept at the jobsite. When a serious or fatalinjury involves a union member, the unionoffice and steward must be notifiedimmediately. Labour and management shouldcooperate fully in conducting an investigation. Part VII of the Occupational Health and Safety Actspecifies the requirements for notification in the event of fatalities, injuries, and accidents. In the event of an accident that requires reportingand investigation, care should be taken not todisturb the accident scene, nor should equipmentor tools involved in the accident be removed. Contact with an overhead powerline Contact with an overhead powerline must bereported to multiple parties. If accidental contact occurs with an energized powerline carrying 750 V or more, report thecontact to the inspection department of theElectrical Safety Authority (ESA), and providewritten notice to the Ministry of Labour, jointhealth and safety committee or health and safetyrepresentative, and trade union. Fatality or critical injury A written report is required under subsection 51 (1) of the Act, respecting an occurrence inwhich a person is killed or critically injured.(See box on next page.) Section 53 of the Act: Where a notice or report is not required under section 51 or 52, and an • accident • premature or unexpected explosion, fire, flood or inrush of water • failure of any equipment, machine, device, article, or thing.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "26 – 16ELECTRICAL HAZARDS • cave-in, subsidence, rockburst • or other incident as prescribed (see box occurs at a project site, mine, or mining plant, notice in writing of the occurrence shall be givento a director, the joint health and safety committeeor health and safety representative, and tradeunion, if any, by the constructor of the project orthe owner of the mine or mining plant within twodays of the occurrence containing suchinformation and particulars as are prescribed.Reporting serious electrical incidents to An owner, contractor, or operator of a facility must report any serious electrical incident to theInspection Department of the ESA within 48hours after the occurrence. Notice of accident, explosion or fire causing injury If a person is disabled from performing his or her usual work or requires medical attentionbecause of an accident, explosion, or fire at aworkplace, but no person dies or is criticallyinjured because of that occurrence, theemployer shall, within four days of theoccurrence, give written notice of theoccurrence containing the prescribedinformation and particulars to the following: 1. The joint health and safety committee or the health and safety representative, andthe trade union, if any. 2. The Director, if an inspector requires notification of the Director.For the purpose of the Act, the Regulations, and the Ontario Electrical Safety Code,“critically injured” means an injury of aserious nature that, • places life in jeopardy; • produces unconsciousness;• results in substantial loss of blood;• involves the fracture of a leg or arm but not a finger or toe; • involves the amputation of a leg, arm, hand, or foot but not a finger or toe; • consists of burns to a major portion of the body; or, • causes the loss of sight in an eye. Note: O. Reg. 834 and Ontario Electrical Safety Code (OESC) (twenty third edition 2002) use virtually identical wording for the definition of “critically injured.” For the purpose of section 53 of the Act, a prescribed incident includes: • accidental contact by a worker or by a worker’s tool or equipment with energized electrical equipment, installations orconductors. s.11 O. Reg. 213/91 • Accidental contact by a crane, similar hoisting device, backhoe, power shovelor other vehicle or equipment or its loadwith an energized electrical conductorrated at more than 750 volts. s.11 O. Reg. 213/91“Serious electrical incident” means, a) Any electrical contact which causes death or critical* injury to a person, or b)Any fire or any explosion or any condition suspected of being electrical in origin which might have caused a fire,explosion, loss of life, critical* injury to aperson, or damage to property, or c) Any electrical contact with electrical equipment operating at over 750 volts, or d)Any explosion or fire of electrical equipment operating at over 750 volts. * see definition of “critically injured” under“Fatality or Critical Injury” above.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "27 – 127 LOCKOUT AND TAGGING • What is lockout and tagging? • Forms of energy• Procedure• Planning steps• Explanation of steps• Summary WHAT IS LOCKOUT AND TAGGING? Lockout and tagging ensures that hazardous energy sources are under the control of each worker. Serious orfatal accidents can occur when people assume thatmachinery is turned off or made harmless— but it isn’t . Lockout is a procedure that prevents the release of hazardous energy. It often involves workers using a padlock to keep a switch in the “off” position, or to isolate the energy of moving parts. This prevents electric shock,sudden movement of components, chemical combustion,falling counterweights, and other actions that canendanger lives. Lockout is a physical way to ensure thatthe energy source is de-energized, deactivated, orotherwise inoperable. Tagging tells others that the device is locked out, who has locked it out, and why. Tagged devices and systems must not be re-energized without the authority of thosenamed on the tag. FORMS OF ENERGY When most people think of uncontrolled hazardousenergy, they think of electricity. But construction crewsdoing work in industrial or office settings often have tolock out and tag a variety of energy sources. Here are themain types. •Electrical—electrical panels, generators, lighting systems, etc. •Mechanical (the energy of moving parts)—flywheels, blades, fans, conveyor belts, etc. •Potential (stored energy that can be released during work)—suspended loads, compressed air, electrical capacitors, accumulated bulk goods, coiled springs, chemical reactions, changing states (solid—liquid—gas), etc. •Hydraulic —presses, rams, cylinders, cranes, forklifts, •Pneumatic—lines, compression tanks, tools, etc. •Thermal—steam, hot water, fire, etc. •Chemical—flammable materials, corrosive substances, vapours, etc. Some equipment may involve more than one type of energy, and pose unexpected hazards. For example, a machine may have an electrically operated componentwith a hydraulic or pneumatic primary power source, or it may become activated on a timed schedule. With someequipment, gravity and momentum can presentunexpected hazards. Y ou must recognize and control conditions such as these. Switches, power sources, controls, interlocks, pneumatics,hydraulics, computer-controlled sources, gravity-operatedsources—all of these must be locked out andappropriately tagged by each worker involved. Many plants or industrial establishments will have specificprocedures for lockout and tagging. This makes sensebecause the in-plant workforce will have proven itsprocedures through use on the particular system ormachine in question. Follow these procedures, but also verify that all energy sources have been isolated because construction workmay differ from routine plant maintenance. Plant personnel may shut down machines, equipment, or processes. In other cases, plant representatives mayissue permits: 1) a work permit to allow work on theirequipment and 2) a lockout permit to ensure that alllockout procedures are followed before work begins. A written safe work procedure for lockout and tagging is essential. Once implemented and followed, a goodprocedure ensures that no form of energy can harmanyone during a lockout. A written procedure helps to ensure that lockout and tagging have been thoroughly and effectively carried outbefore work begins. It should include • training requirements for workers and supervisors • quality, type, and colour of locks, scissors, chains, blanks, blinds, and other lockout devices • method of identifying lock owners• control of keys for locks• colour, shape, size, and material for tags• method of securing tags and information to be • communication and authorization procedure for shutting down and starting up machinery and • record-keeping requirements • itemized steps to meet lockout objectives. LOCKOUT AND TAGGING Know the law Section 190 of the Construction Regulation (O. Reg. 213/91) lists the requirements for lockout and tagging,including the requirement that “written procedures for compliance with this section shall be established and implemented.”.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "27 – 2LOCKOUT AND TAGGING 1. Locate area. Identify equipment, machinery, etc. 2. Identify all energy sources 3. Determine parts to be locked out 4. Determine proper lockout methods 5. Notify affected personnel 6. Shut down equipment 7. Lock out equipment 8. Tag locked-out equipment 9. Verify: zero-energy state? 12. Restore power Work still required? 13. Return control to operating personnel 14. Record date/time lockout removed and system restored11. Communicate that work is complete and all personnel are clear10. Perform the work Hazardous energy not controlledPLANNING STEPS NoSpecific lockout procedures will vary depending on the work and the processes which must be shut down. The following chart can help you develop specific procedures.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "27 – 3EXPLANATION OF STEPS STEP 1: LOCATE WORK AREA AND IDENTIFY EQUIPMENT, MACHINERY, OR OTHER SYSTEMCOMPONENTS TO BE WORKED ON Identify the area with references such as floor, room name, elevation, or column number. Identify theequipment that is the subject of the work. STEP 2: IDENTIFY ALL ENERGY SOURCES Identify all energy sources affecting the equipment or machinery. Identify the various energy forms to be lockedout such as electrical, momentum, pneumatic, hydraulic,steam, and gravity. STEP 3: IDENTIFY THE PARTS TO BE LOCKED OUT OR ISOLATED Identify systems that affect, or are affected by, the work being performed. These may include primary, secondary,backup, or emergency systems and interlocked remoteequipment. Review the current system drawings for remote energy sources and, where required, identify and confirm with theclient or owner the existence and location of any switches,power sources, controls, interlocks, or other devicesnecessary to isolate the system. Remember that equipment may also be affected by • time restrictions for completing the work • time-activated devices. STEP 4: DETERMINE LOCKOUT METHODS Confirm that the lockout of all energy sources is possible. Some equipment may have to be kept operational to maintain service to other equipment that cannot be shutdown. Take appropriate steps to provide protection forworkers while working near operating equipment. Equipment that can be locked out should be locked out by the methods most appropriate to the hazards. STEP 5: NOTIFY ALL PERSONNEL AFFECTED Shutting down equipment may affect operations in other locations, incoming shifts, or other trades who may beplanning to operate the locked-out system. Beforeproceeding with the lockout, inform all personnel who willbe affected. At construction sites with a large workforce or at relatively large factories, you may need to have specialcommunication methods and permits or approvals.STEP 6: SHUT DOWN EQUIPMENT AND MACHINERY Qualified personnel must shut down the equipment, machinery, or other system components, placing them ina zero-energy state. Trace all systems to locate and lockout energy sources. The main source may be electrical,for instance, but pneumatic and other forms of energymay also be present. Always look for other possibleenergy sources. All equipment capable of being energized or activated electrically, pneumatically, or hydraulically must be de-energized or de-activated by physically disconnecting or otherwise making the apparatus inoperable. Always ensure that the client and operators are aware of the plan to shut down and lock out equipment, machinery,or other system components. In some cases, operationspersonnel or equipment operators may be required to shutdown components because of their special qualificationsor knowledge of the system. In determining what needs to be shut down and locked out, consider the different energy sources that may befound in the system. STEP 7: INSTALL LOCKOUT DEVICES After the circuit has been de-energized and locked out by the person in charge, each worker involved in thelockout must be protected by placing his or herpersonal lock on the isolating device. Remember —even though the disconnect is already locked out, you are not protected until you attach your ownpersonal safety lock. Each worker must retain his or her key while the lock is in place. Only the worker in charge of the lock should have akey. Remember . . . • Merely removing a fuse doesn’t constitute lockout. The fuse could be easily replaced. The fuse should be removed and the box locked out. • The lockout devices attached to one system should not prevent access to the controls and energy-isolating devices of another system. Locks should be high-quality pin-type, key-operated, and numbered to identifyusers. Multiple locks and lockout bars When several workers or trades are working on a machine, you can add additional locks by using a lockoutbar. Y ou can add any number of locks by inserting anotherlockout bar into the last hole of the previous bar.LOCKOUT AND TAGGING In-plant procedures specified by the owner or clienttake precedence over the procedures outlined here,provided there is no contravention of existing codes orlaws.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "27 – 4Other lockout devices Scissors—have holes for locks and should be made of hardened steel. Chains—should be high quality and snug Blocks or cribbing —prevent or restrict movement of parts. Blanks or blinds —are solid metal plates inserted at flanged connections to preventthe flow of liquids or gases. Pins and clamps—should be of high-quality materials anddesigned to fit the system. STEP 8: TAGGING Section 190 of the Construction Regulation (O. Reg. 213/91) requires each worker involved in a lockoutoperation to attach a durable tag to his or her personallock. The tag must identify the worker’s name, theworker’s employer, the date and time of lockout, the workarea involved, and the reason for the lockout. A tag in itself offers no guarantee that a machine or system is locked out. It simply provides information. Signs must be placed on the system indicating that • it must not be energized or operated • guards, locks, temporary ground cables, chains, tags, and other safeguards must not be tampered with or removed until a) the work is complete, and b) each worker has removed his or her personal A record must be kept of all equipment locked out or otherwise rendered inoperable so that all of these devicescan be reactivated once the work is complete.STEP 9: VERIFY ZERO-ENERGY STATE After any power or product remaining in the equipment has been discharged or disconnected by qualifiedpersonnel, verify that all personnel are clear of theequipment. Then try, with extreme caution, to start theequipment manually. Look for any movement or functions.If none are observed, confirm that all energy sources areat a zero-energy state. Test the system to ensure that all electrical components are de-energized and de-activated, including interlockingand dependent systems that could feed into the system,either mechanically or electrically. STEP 10: PERFORM THE TASK Carry out and complete the work assignment. STEP 11: COMMUNICATE THAT WORK IS COMPLETE AND THAT ALL PERSONNEL ARE CLEAR • Ensure that personnel are clear of the locked-out equipment, machinery, or system. • Remove only your tags and locks. • Tell personnel that were originally informed of the lockout that the equipment, machinery, or system is no longer locked out. STEP 12: RESTORE POWER Return systems to operational status and the switches to power ON. Have qualified personnel restart machinery orequipment. STEP 13: RETURN CONTROL TO OPERATING When all work is completed, the person in charge of the lockout operation should formally return control of theequipment or system to plant personnel. STEP 14: RECORD DATE/TIME LOCKOUT REMOVED AND SYSTEM RESTORED This last step is important. It saves valuable information that may be lost if not recorded. Staff involved in theshutdown may not remain at the same jobsite. Owners oroperators may require this information to help plan futureshutdowns. Lockout can ensure the safety of a single mechanic working alone or of hundreds of workers in a factory. Ineither situation, a procedure for safe lockout and taggingmust be written, implemented, and followed step by step. Lockout and tagging procedures help to ensure that • all energy sources are identified and locked out • energy is not inadvertently restored while work is proceeding • maintenance, repair, installation, and other jobs can be carried out safely • records are kept. LOCKOUT AND TAGGING Blank / blind Front Back.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "31 – 12TRENCHING • Keep away from the operation if you are not directly involved in the work. • Wear hearing protection if working in vicinity of the hydrovac truck. • Be aware of the hazards, such as slips from the runoff water and ice during the • Wear appropriate eye and face protection such as safety glasses and faceshields.They will protect you from getting anyairbourne debris (caused by splashing) inyour eyes. • Keep clear of the vacuum. It is powerful and can cause serious injury or even deathif you are caught in the tube. Breaks — Breaks in electrical, gas, and water services can cause serious injuries, even deaths. Hitting an underground electrical line can resultin electrocution, while hitting a gas line cancause an explosion. A broken water line canrelease a sudden rush of water, washing outsupport systems and causing a cave-in. Cutting telephone lines can create a serious problem if emergency calls for police, fire, orambulance are required. In the event of gas line contact, call the gas company immediately. The company will checkthe line and close down the supply if necessary. If a leak is suspected, people in the immediate area should be told to evacuate. Where service toa building or home has been struck, peopleinside should be advised to leave doors andwindows open; shut off appliances, furnaces, andother sources of ignition; and vacate the premisesuntil the gas company declares it safe to return. Construction personnel should take two precautions. 1)Put out smoking materials and shut off other sources of ignition such as engines and equipment.2)Leave the trench immediately. Gas can collect there. Overhead powerlines When equipment operates within reach of (and could therefore encroach on) the minimumpermitted distance from a live overhead powerline,the constructor must have written procedures inplace to prevent the equipment from encroachingon the minimum distance. If equipment touches a high-voltage line, the operator should take the followingprecautions. 1)Stay on the machine. Don’t touch equipment and ground at same time.Touching anything in contact with theground could be fatal. 2)Anyone operating accessory equipment should also remain on that equipment.They should also avoid making contactwith the ground and the equipment at thesame time.Voltage Rating of Powerline Minimum Distance 750 or more volts, but not 3 metres (10') more than 150,000 volts more than 150,000 but 4.5 metres (15') not more than 250,000 volts more than 250,000 volts 6 metres (20') Keep people away from machine if there is a powerline contact. Stay on the machine unless there is an emergency such as fire.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "31 – 13TRENCHING 3)Keep others away. Warn them not to touch the load, load lines, boom, bucket, or any other part of the equipment (Figure 26). 4)Get someone to call the local utility to shut off power. 5)If possible, the operator (while remaining on the machine) can try to break contactby moving the machine clear of the wires. Warning: Beware of time relays. Evenafter breakers are tripped by linedamage, relays may be triggered torestore power. 6)If the operator can’t break contact by moving the machine (while remaining onit), do not move the machine until theutility shuts down the line and confirmsthat power is off. 7)If an emergency such as fire forces you to leave the machine, jump clear (Figure 27).Never step down. If part of your bodycontacts the ground while another parttouches the machine, current will travelthrough you.8)Jump with feet together and shuffle away in small steps. Don’t take big steps. Withvoltage differential across the ground, onefoot may be in a higher voltage area thanthe other. The difference can kill you(Figure 28). Special precautions are required for casualties incontact with live powerlines or equipment. 1)Never touch the casualty or anything in contact with the casualty. 2)If possible, break contact. Use a dry board, rubber hose, or dry polypropylene rope tomove either the casualty or the line. Anobject can sometimes be thrown toseparate the casualty from the wire. Warning : Touching the casualty, even with dry wood or rubber, can bedangerous. With high voltage lines,objects that are normally insulatorscan become conductors. 3)Call emergency services — in most cases ambulance, fire department, and utility. Voltage differential across the ground caninjure or kill you. If an emergency forces you to leave the machine, jump clear with feet together and shuffle away — never step down.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "32 – 4Welding and Cutting In recent years, propane has become a popular energy source in open flame welding and cutting. Combined withoxygen in a manner similar to oxyacetylene welding, itprovides a gas mix that is considered much more stable bymany users. While welding cylinders are generally smaller than cylinders used for construction heaters, they should be treated withthe same care. • Fittings should be clean and free of grease before hooking • Fitting wrenches should be used to avoid damage toparts. • Cylinders should be in an upright position at all times,kept in a suitable cradle whenin use, and preferably tiedupright to prevent tipping over(Figure 9). • A fire extinguisher (4A40BC minimum) should be keptclose when using any torch. • Regulators should be removed and stored in aprotective case when not in use, along with hoses andtorches. • Consult manufacturer's handbook for oxypropane regulator settings. They are very different fromoxyacetylene settings. For more information, refer to Welding and Cutting in this manual.Summary The safe use of propane depends on twelve basic rules: 1) Don't store cylinders inside a building. 2) Remove cylinders from the building when not in use or when empty. 3) Keep cylinders away from heat sources, and flammables away from heaters. 4) Always secure cylinders to prevent upset.5) Never transport cylinders in an enclosed vehicle or 6) Always use proper gear for hoisting or moving cylinders around the worksite. 7) Keep heaters in good condition. Repairs and maintenance should be done only by licensed service personnel. 8) Always have a fire extinguisher handy (4A40BC 9) Protect stored cylinders or bulk tanks from on-site 10) Don't tamper with controls or safety devices. 11) Never enter an area where leaking gas is suspected.12) Don't use or store cylinders of propane in low areas such as trenches, maintenance holes, or basements.PROPANE Oxypropane Welding Cart.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "33 – 10When the level of toxic gas or vapour is above the exposure limit but below the IDLH level, air-purifyingrespirators approved by the National Institute ofOccupational Safety and Health (NIOSH) may be usedprovided the exposure conditions do not exceed the unit'slimitations. Someone who is competent in respiratorselection must determine the appropriate type ofrespirator. Workers required to wear respirators must be instructed how to properly fit and maintain them. For moreinformation on respiratory protection, refer to the chapteron Respiratory Protection in this manual, or the CanadianStandards Association’s standard Z94.4-02, Selection, Use, and Care of Respirators . 6) ISOLATION OF ENERGY ANDCONTROL OF MATERIAL MOVEMENT Equipment that moves in any way (even rotation) must beisolated by ❑disconnecting the equipment from its power source and de-energizing the equipment, or ❑lockout and tagging. Only workers trained in lockoutand tagging should perform such operations. Lockout and tagging should be done even if you use the first option (disconnect and de-energize) to isolate theenergy.For pneumatic or hydraulic equipment, isolate the power source and depressurize the supply lines. Depressurizeany components that may still be pressurized after thesupply lines have been bled-hydraulic cylinders forexample. Y ou must disconnect and drain pipes carryingsolids or liquids to or from a confined space, or insertblank flanges. If the pipe cannot be blanked off or disconnected, the valve may be closed, chained, locked and tagged,provided thatthis type ofcontrol—and itsimportance—have beenexplained to allworkers in thearea. Simply closing valvesis notgenerallyacceptable. Y ou may need blocking to prevent movement caused by gravity for some equipment (e.g., conveyors). Electrical equipment in the space should bedisconnected, tagged andlocked out, and groundedwhen it's practical to do so. In the case of live electrical work in a confined space,you need to pay specialattention to standardprocedures. A minormistake in a manhole canlead to disaster. Cramped working conditions can makeaccidental contact with anenergized conductor morelikely, so you may need non-conductive equipment. Y ou may need gloves, mats, and other insulating equipment depending upon the type of work. Capacitorsor other components which can store a charge should bedischarged and/or grounded.CONFINED SPACES Do not use single-strap dust masks and surgical masks—they are not approved by the National Institute for Occupational Safety and Health (NIOSH). NIOSH is a U.S.-based organization thatapproves respirators. Workers must be supplied withNIOSH-approved respirators only. All NIOSH- approved respirators have an approval number (always starting with the letters TC) on them. Make sure your respirator has all the proper parts. Since each manufacturer uses different designs,parts are not interchangeable between brands. Make sure you use the correct parts (cartridges, aircylinders, etc.) for your brand of respirator. Never use cartridges or air cylinders from another manufacturer. They will not fit correctly and will endanger the life of the worker or rescuer.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "33 – 14If measurements are within acceptable exposure limits but are approaching hazardous levels, the competent worker'sdecision to proceed should be based on an assessmentof the source of the problem, the likelihood of change, andthe conditions at the scene. In doubtful cases, it is best toimplement the appropriate controls discussed in thefollowing section. Recording the results. The test results must be recorded on the work entry permit. The records must be kept by the constructor oremployer for at least one year after the project is finished. 10) COMBUSTIBLE, EXPLOSIVE, ORFLAMMABLE ATMOSPHERES No worker is allowed to enter a confined space if airbornecombustible dust or mist is present in a concentration sufficient for explosion. If an explosive or flammable atmosphere is detected, you can perform only certaintypes of work. The conditions for each type of work arespecified below the following definitions. a)Between 0% and 5% of the LEL, you can perform hot work. The following conditions must also be met: ❑The oxygen content must be maintained below ❑The atmosphere must be continuoouslymonitored. ❑The entry permit must include adequateprovisions for hot work, and it must specify the appropriate measures to be taken. ❑An alarm and exit procedure must be in place to provide adequate warning and allow safe escape if the atmospheric concentration exceeds 5% ofthe LEL or if the oxygen content exceeds 23%. b)Between 0% and 10% of the LEL, you can perform cold work. c)Between 0% and 25% of the LEL, you can performinspection work. Alternatively, work may be carried out in the confined space if the combustible, explosive or flammableatmosphere is rendered inert by an inert gas (such asnitrogen, argon, helium, or carbon dioxide). The atmosphere must be monitored continuously to ensure it remains inert. The worker in the confined spacemust use adequate respiratory equipment as well asadequate equipment to help people outside the confinedspace locate and rescue the worker if a problem occurs.CONFINED SPACES Acceptable atmospheric levels Explosive orflammable gasor vapour< 25% of its lower explosive limit:inspection work can be performed. < 10% of its lower explosive limit: cold work can be performed. (Cold work is work which does not involve – welding and cutting – the use of tools or equipment which can produce a spark – other sources of ignition.) < 5% of its lower explosive limit: hot work can be performed. Oxygen contentAt least 19.5% but not more than23% by volume. Exposure toatmosphericcontaminantsExposures to atmosphericcontaminants must not exceed whatis reasonable in the circumstances(section 221.2 (c) of theConstruction Regulation). The exposure limits in the regulation on Control of Exposureto Biological or Chemical Agents(Ontario Regulation 833) and theDesignated Substance Regulations*are generally consideredreasonable for protecting workers. * This is the case despite the fact that construction projects are, strictly speaking, exempt from Regulation 833 and most of the Designated Substance Regulations. (The Designated Substance Regulation which does apply to construction is O. Reg. 278/05: Designated Substance–Asbestos on Construction Projects and in Buildings and Repair Operations.) ★Never trust your senses to determine whether the atmosphere in a confined space is safe. ★Y ou cannot see or smell many toxic gases andvapours. ★Y ou cannot determine by your senses the levelof oxygen present. ★Know which gases or vapours may be present inthe confined space and test for them.Inerting is the process of replacing the potentially combustible atmosphere in a confined space with a noncombustible gas such as nitrogen, argon, helium,or carbon dioxide. Hot work means activities that could produce a source of ignition such as a spark or open flame.Examples of hot work include welding, cutting,grinding, and using non-explosion-proof electricalequipment. Cold work means activities that cannot produce a source of ignition.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  },
+  {
+    "title": "Safety Information",
+    "content": "33 – 1511. VENTILATION/PURGING This is the most effective method of control. The space can be purged of dangerous atmospheres by blowingenough fresh air in, and/or by removing (or suction-venting) the bad air and allowing clean air in. Studies haveshown that the best results are obtained by blowing freshair into a space close to the bottom. Check the efficiencyof ventilation by re-testing the atmosphere with the gasdetection equipment before entry. When ventilation is used to improve the air in a confined space, ensure that the toxic or flammable gases orvapours removed from the space do not pose a risk toother workers. “Exhaust air” should not be discharged intoanother work area. In cases where the concentration of explosive gas or vapouris higher than the UEL,ventilation will bring theconcentration down intothe “Explosive Range.”This is one reason whyyou should use only“explosion-proof” fans.These may be speciallydesigned fans poweredby electricity orcompressed air. Somepneumatic air moversmay also be suitable. For manholes, you can use portable fans. Theseusually provide around750-1,000 cubic feet ofair per minute.A typical manhole 10 feet deep and 5 feet wide contains196 cubic feet. Blowing in 750 cubic feet per minuteshould provide an air change every 15 seconds and easilydilute or displace most dangerous atmospheres. Fans capable of moving 5,000 cubic feet per minute are available for use in larger tanks and vessels. This type of ventilation may not be adequate in situations where additional toxic or explosive gases or vapours maybe generated (e.g., during cleaning and resurfacing tanksor by disturbing sludge and scale). In the case of welding or other work which generates a localized source of toxic gas, fume, or vapour, an exhaustventilator can be used to draw out and discharge thehazard in an open area. (See figure below.) Options must be evaluated by someone who understands the risks of the work being done. CONFINED SPACES The inert gas will replace all of the oxygen as well as the combustible gases in the confined space.Workers entering the confined space should useNIOSH-approved air-supplied respirators. After work is completed, the confined space must beproperly ventilated, and a competent worker musttest the confined space to see if it is safe. If you use mechanical ventilation to maintainacceptable atmospheric levels by providing acontinuous supply of fresh air, you must have awarning system (i.e., an alarm) and exit procedure incase there is a ventilation failure. The alarm shouldbe activated by a pressure switch at the fan rather than by electrical failure. This ensures that the alarmis activated if the fan belt fails.",
+    "category": "electrical",
+    "source": "",
+    "keywords": [
+      "safety",
+      "information"
+    ]
+  }
+]
